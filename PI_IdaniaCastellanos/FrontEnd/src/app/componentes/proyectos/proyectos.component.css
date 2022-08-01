@@ -1,9 +1,10 @@
 .row{
-    background-color: cornflowerblue;
+    background-color: #2979D0;
     padding: 20px;
 }
 .contenedor{
     width: auto;
+    margin-top: 50px;
 }
 .texto, .imagen{
     display:inline-block;
@@ -12,3 +13,18 @@
 .img-proyecto{
     box-shadow: 10px 10px 30px black;
 }
+
+#titulo{
+
+    color: #FFF;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 700;
+    text-shadow: -2px 2px 0 gray, -5px 5px 0 #0a0e27;
+ 
+
+}
+
+#textos{
+color: white;
+font-weight: bold;}

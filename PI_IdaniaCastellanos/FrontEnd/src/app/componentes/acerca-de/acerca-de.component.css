@@ -1,6 +1,6 @@
 /*Estilos generales*/
 div{
-    background-color: cornflowerblue;
+    background-color: #2979D0;
     text-align: center;
 }
 .row{
@@ -62,3 +62,18 @@ img {
     margin-top: 25%;
     font-size:x-large;
    }
+
+   #titulo{
+
+        color: #FFF;
+        margin: 0 auto;
+        text-align: center;
+        font-weight: 700;
+        text-shadow: -2px 2px 0 gray, -5px 5px 0 #0a0e27;
+     
+
+   }
+
+   #textos{
+    color: white;
+    font-weight: bold;}

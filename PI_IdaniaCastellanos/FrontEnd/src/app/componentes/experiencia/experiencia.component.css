@@ -2,8 +2,23 @@
     padding: 50px;
 }
 div{
-    background-color: cornflowerblue;
+    background-color: #2979D0;
 }
 h1, h3{
     display: inline;
 }
+
+#titulo{
+
+    color: #FFF;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 700;
+    text-shadow: -2px 2px 0 gray, -5px 5px 0 #0a0e27;
+ 
+
+}
+
+#textos{
+color: white;
+font-weight: bold;}
